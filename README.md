@@ -5,3 +5,4 @@ Google Data Analytics Capstone Project: Analyzing bike-share data to convert cas
 ## 📫 Contact Me
 * **LinkedIn:** https://www.linkedin.com/in/esteban-sibaja-saborio-516654101/]
 * **Email:** [esiba07@gmail.com]
+*Data Source: [Cyclistic Historical Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html) (Provided by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement)).*
